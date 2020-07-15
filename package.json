@@ -9,7 +9,7 @@
 	"author": "Morgante Pell",
 	"private": true,
 	"dependencies": {
-		"lodash": "^3.10.0"
+		"lodash": "^4.17.19"
 	},
 	"devDependencies": {
 		"mocha": "^2.2.5",
